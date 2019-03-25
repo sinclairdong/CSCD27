@@ -1,0 +1,17 @@
+POST /courses/cscd27f16/assignment/02/server/login.php HTTP/1.1
+host: mathlab.utsc.utoronto.ca
+content-type: application/x-www-form-urlencoded; charset=utf-8
+content-length: 34
+Connection: keep-alive
+
+username=alice&password=pass4aliceHTTP/1.1 200 OK
+Date: Fri, 11 Nov 2016 21:59:45 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: PHP/5.5.9-1ubuntu4.20
+Content-Length: 50
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+hello alice
+your new balence is -358,855,344.25

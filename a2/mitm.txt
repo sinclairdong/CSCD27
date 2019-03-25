@@ -1,0 +1,17 @@
+POST /courses/cscd27f16/assignment/02/server/login.php HTTP/1.1
+host: mathlab.utsc.utoronto.ca
+content-type: application/x-www-form-urlencoded; charset=utf-8
+content-length: 34
+Connection: keep-alive
+
+username=alice&password=pass4aliceHTTP/1.1 200 OK
+Content-Length: 49
+X-Powered-By: PHP/5.3.10-1ubuntu3.19
+Vary: Accept-Encoding
+Keep-Alive: timeout=15, max=80
+Server: Apache/2.2.22 (Ubuntu)
+Connection: Keep-Alive
+Date: Fri, 11 Nov 2016 23:24:27 GMT
+Content-Type: text/html
+
+Welcome alice your bank account balance is $31415

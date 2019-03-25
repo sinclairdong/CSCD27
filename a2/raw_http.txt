@@ -1,0 +1,15 @@
+GET /courses/cscd27f16/assignment/02/server/ HTTP/1.1
+host: mathlab.utsc.utoronto.ca
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 11 Nov 2016 13:14:59 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.19
+Location: https://mathlab.utsc.utoronto.ca/courses/cscd27f16/assignment/02/server/
+Vary: Accept-Encoding
+Content-Length: 0
+Keep-Alive: timeout=15, max=80
+Connection: Keep-Alive
+Content-Type: text/html
+

@@ -1,0 +1,39 @@
+a)
+unning time: 2.14 s
+
+real	0m2.182s
+user	0m2.148s
+sys	0m0.012s
+
+b)
+f1
+
+0000000: 11ab 5634 c46d e051 b4cc 6dad e959 ab79  ..V4.m.Q..m..Y.y
+0000010: 597f 2dc8 cf6e eff3 1056 82e1 0978 8bd1  Y.-..n...V...x..
+0000020: c82c a9e6 dc0a 3a83 0bc8 76d3 f8b5 7b87  .,....:...v...{.
+0000030: a518 0944 1d64 ce9d e01e 1b7f 2c4c 124f  ...D.d......,L.O
+0000040: 8e64 55df 8c94 1a8e 0df6 8924 ef6c 324c  .dU........$.l2L
+0000050: 2a3d c13a 2706 2e69 cb1a 6e47 ec87 deeb  *=.:'..i..nG....
+0000060: 7065 4614 f258 0480 8a6f 5cef 5938 f76a  peF..X...o\.Y8.j
+0000070: e840 0b85 b7a0 89f7 ff18 9441 0135 fcc3  .@.........A.5..
+
+
+f2
+
+0000000: 11ab 5634 c46d e051 b4cc 6dad e959 ab79  ..V4.m.Q..m..Y.y
+0000010: 597f 2d48 cf6e eff3 1056 82e1 0978 8bd1  Y.-H.n...V...x..
+0000020: c82c a9e6 dc0a 3a83 0bc8 76d3 f835 7c87  .,....:...v..5|.
+0000030: a518 0944 1d64 ce9d e01e 1bff 2c4c 124f  ...D.d......,L.O
+0000040: 8e64 55df 8c94 1a8e 0df6 8924 ef6c 324c  .dU........$.l2L
+0000050: 2a3d c1ba 2706 2e69 cb1a 6e47 ec87 deeb  *=..'..i..nG....
+0000060: 7065 4614 f258 0480 8a6f 5cef 59b8 f66a  peF..X...o\.Y..j
+0000070: e840 0b85 b7a0 89f7 ff18 94c1 0135 fcc3  .@...........5..
+
+c)
+946b34d98e5c50ce0b06dece992c57f02c10274fb61ab43ef5bd0e0d57db7fdf  f1
+5d853a903deb665a8af89a47a28dfa57d362118463ef1b13cb784a54a8d9e7c2  f2
+
+d)
+6e20072ea100164da905fa8882f24ae7  f1
+6e20072ea100164da905fa8882f24ae7  f2
+

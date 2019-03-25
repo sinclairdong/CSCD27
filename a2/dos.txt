@@ -1,0 +1,2 @@
+4	2.010247000	CadmusCo_5c:c1:a1	CadmusCo_59:c2:c8	ARP	42	10.0.1.100 is at 08:00:27:5c:c1:a1
+3	1.658083000	142.1.96.164	10.0.1.101	TCP	54	http > 37321 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0
